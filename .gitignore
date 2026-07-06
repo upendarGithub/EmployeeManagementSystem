@@ -1,0 +1,21 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Java
+ems-backend/target/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
